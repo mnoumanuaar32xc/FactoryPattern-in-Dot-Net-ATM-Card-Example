@@ -12,8 +12,6 @@ Console.ReadLine();
 Console.WriteLine("Thanks for using this application....");
 
 
-
-
 // FactoryClass
 
 class Cards
